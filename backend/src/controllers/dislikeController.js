@@ -1,4 +1,3 @@
-const axios = require('axios');
 const devModel = require('../models/dev');
 
 module.exports = {
